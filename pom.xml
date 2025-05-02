@@ -33,7 +33,7 @@
         <repository>
             <id>arbjergDev</id>
             <name>Lavalink Repository</name>
-            <url>https://maven.lavalink.dev/releases</url>
+            <url>https://maven.lavalink.dev/snapshots</url>
         </repository>
     </repositories>
 
@@ -64,7 +64,7 @@
         <dependency>
             <groupId>dev.lavalink.youtube</groupId>
             <artifactId>v2</artifactId>
-            <version>1.13.0</version>
+            <version>0e5cfca4e88c32db430ce76e6866b13035c85d22-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>com.github.jagrosh</groupId>
